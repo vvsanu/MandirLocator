@@ -5,10 +5,10 @@
   "license": "MIT",
   "homepage": "https://vvsanu.github.io/MandirLocator",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@expo/cli": "^0.24.18",
